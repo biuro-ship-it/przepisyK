@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Kiełbasa Krakowska",
+    "przyprawy": {
+      "Sól peklowa (g)": 18,
+      "Pieprz czarny (g)": 2,
+      "Czosnek świeży (g)": 3,
+      "Gorczyca (g)": 1
+    },
+    "instrukcja": "Mięso peklujemy 24h. Mielimy na szarpaku. Nadziewamy ściśle w osłonki białkowe..."
+  },
+  {
+    "id": 2,
+    "nazwa": "Kiełbasa Wiejska",
+    "przyprawy": {
+      "Sól peklowa (g)": 17,
+      "Pieprz czarny (g)": 2.5,
+      "Majeranek (g)": 1.5,
+      "Czosnek (g)": 4
+    },
+    "instrukcja": "Mięso kl. I i II mieszamy, dodajemy przyprawy. Wędzimy w dymie olchowym przez 3 godziny..."
+  }
+]
